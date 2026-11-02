@@ -11,3 +11,7 @@ Nesta etapa foram utilizados os comandos:
 - git add
 - git commit
 - git push
+
+## Alteração na branch desenvolvimento
+
+Essa parte foi adicionada na branch desenvolvimento.
